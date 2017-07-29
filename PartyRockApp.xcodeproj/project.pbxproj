@@ -237,6 +237,7 @@
 				TargetAttributes = {
 					2DA365BA1F2AC95E00DC864E = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = H45JYNNLPV;
 						ProvisioningStyle = Automatic;
 					};
 					2DA365CE1F2AC95E00DC864E = {
@@ -462,6 +463,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H45JYNNLPV;
 				INFOPLIST_FILE = PartyRockApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.micahrowell.PartyRockApp;
@@ -474,6 +476,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H45JYNNLPV;
 				INFOPLIST_FILE = PartyRockApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.micahrowell.PartyRockApp;
